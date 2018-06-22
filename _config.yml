@@ -1,10 +1,11 @@
 # Site settings
 title: Shang-Hung Shih
 description:
-  en: "This is an personal website for Shang-Hung Shih to share his experiences, projects, publications and tech/non-tech posts. Shang-Hung Shih is a Genome and Systems Biology Degree Program M.S. student at National Taiwan University (NTU), working with Prof. Chien-Yu Chen. Prior to this, He earned his Bachelor’s degrees in Biomedical Science from Chung Shan Medical University with honor. His research interests lie in the field of Bioinformatics, Next-Generation-Sequencing (NGS) and Machine Learning."
+  #en: "This is an personal website for Shang-Hung Shih to share his experiences, projects, publications and tech/non-tech posts. Shang-Hung Shih is a Genome and Systems Biology Degree Program M.S. student at National Taiwan University (NTU), working with Prof. Chien-Yu Chen. Prior to this, He earned his Bachelor’s degrees in Biomedical Science from Chung Shan Medical University with honor. His research interests lie in the field of Bioinformatics, Next-Generation-Sequencing (NGS) and Machine Learning."
+  en: "The style of this website is borrowed from Hexiang(Frank) Hu's."
   cn: "這是施尚宏的個人網頁，用于分享他的個人經歷、項目、論文，技術相關/不相關的網頁。"
 keywords:
-  en: "Hexiang Hu,Publications,Posts,Research,Deep Learning,Computer Vision,Natural Language Processing"
+  en: "Shang-Hung Shih,Publications,Posts,Research,Machine Learning,Bioinformatics,Next Generation Sequencing"
   cn: "施尚宏,學術論文,研究,機器學習,生物資訊,次世代定序"
 background: /images/background/background-cube.jpg
 deep_background: /images/background/background-deepcube-2.jpg
