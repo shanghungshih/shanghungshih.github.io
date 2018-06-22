@@ -1,5 +1,5 @@
-name:       " Shang-Hung Shih"
-title:      "M.S. Student [at] NTU"
+name:       " Shang-Hung Shih (Albert)"
+title:      "M.S. Student [at] NTU and Academia Sinica"
 email:      "adgh456 [at] gmail.com"
 head_pic:   "/images/self-portrait/me.jpg"
 deep_pic:   "/images/self-portrait/deep-me.jpg"
@@ -7,7 +7,7 @@ resume:     "/assets/resume/20180201.pdf"
 normal:
   date:     "Sept. 2018"
   title:    ""
-  content:  "<strong>Shang-Hung Shih</strong> is a Genome and Systems Biology Degree Program M.S. student at <strong>National Taiwan University (NTU)</strong>, working with <a href='http://bioinfo.bime.ntu.edu.tw/c4lab/index.php/members/'>Prof. Chien-Yu Chen</a>. Prior to this, He earned his Bachelor’s degrees in Biomedical Science from Chung Shan Medical University with honor. His research interests lie in the field of <strong>Bioinformatics</strong>, <strong>Next-Generation-Sequencing (NGS)</strong> and <strong>Machine Learning</strong>."
+  content:  "<strong>Shang-Hung Shih</strong> is a Genome and Systems Biology Degree Program M.S. student at <strong>National Taiwan University (NTU) and Academia Sinica</strong>, working with <a href='http://bioinfo.bime.ntu.edu.tw/c4lab/index.php/members/'>Prof. Chien-Yu Chen</a>. Prior to this, He earned his Bachelor’s degrees in Biomedical Science from Chung Shan Medical University with honor. His research interests lie in the field of <strong>Bioinformatics</strong>, <strong>Next-Generation-Sequencing (NGS)</strong> and <strong>Machine Learning</strong>."
 short:
   date:
   title:  "Bioinformatics Learner"
