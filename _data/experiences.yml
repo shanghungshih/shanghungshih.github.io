@@ -16,9 +16,9 @@
   host:  
     name: "<a href='http://biomedical.csmu.edu.tw/files/11-1047-105.php?Lang=zh-tw'>Prof. Yu-Fan Liu</a>"
     role: "Supervisor"
-  brief: false
+  brief: true
 - date:  "2014 - 2018"
   title: "Undergraduate student @ CSMU"
   desc:  "B.Sc. in Biomedical Science"
   host:  false
-  brief: false
+  brief: true
