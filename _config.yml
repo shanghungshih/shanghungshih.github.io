@@ -29,10 +29,10 @@ highlighter: rouge
 
 # Social media link for the site
 social:
-  twitter:    Hexiang_Hu
+  twitter:    adgh456
   github:     shanghungshih
   facebook:   shanghungshih
-  linkedin:   hexianghu
+  linkedin:   adgh456
   rss:        /feed.xml
 
 google_analytics_token: "UA-60071442-1"
