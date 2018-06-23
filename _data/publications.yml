@@ -1,6 +1,6 @@
 # - title: 'Synthesize Policies for Transfer and Adaptation across Environments and Tasks'
-- title: 'Learning Answer Embedding for Visual Question Answering'
-  date:  'Feb. 2018'
+- title: '<a href="https://github.com/shanghungshih/ngs-main-wes">ngs-main-wes</a>: Dockerized Multi-thread WES Analysis Pipeline'
+  date:  'May. 2018'
   imgurl: '/images/projects/2018/ngs-main-wes_Guide.png'
   imgprop: 'frame'
   selected: true
@@ -10,4 +10,4 @@
   publisher:  'Side Project'
   status:   ''
   place:    'in Taichung city, Taiwan'
-  desc: 'A Dockerized Whole-Exome-Sequencing Analysis pipeline for general varaints calling and annotation.'
+  desc: 'A Dockerized Multi-thread Whole-Exome-Sequencing (WES) Analysis Pipeline for general varaints calling (GATK3 Mutect2 & GATK4 Mutect2 with PONs) and annotation (Phial based on Oncotator, paraSNP based on Annovar).'
