@@ -17,7 +17,7 @@ url: "https://shanghungshih.github.io"
 
 # Paginationœ
 paginate: 6
-paginate_path: "/posts/page/:num/"
+paginate_path: "/nono/posts/page/:num/"
 
 # Build settings
 markdown: kramdown
