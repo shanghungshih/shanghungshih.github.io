@@ -1,9 +1,9 @@
 name:       " Shang-Hung Shih"
 title:      "M.S. Student [at] NTU"
-email:      "adgh456 [at] gmail.com"
+email:      "shshih8497 [at] gmail.com"
 head_pic:   "/images/self-portrait/me.jpg"
 deep_pic:   "/images/self-portrait/deep-me.jpg"
-resume:     "/assets/resume/no_20180201.pdf"
+resume:     "/assets/resume/ShangHungShih_resume_pic.pdf"
 normal:
   date:     "Sept. 2018"
   title:    ""
@@ -11,4 +11,4 @@ normal:
 short:
   date:
   title:  "Bioinformatics Learner"
-  content: "I am passionate with Bioinformatics, Next-Generation-Sequencing (NGS) and as well as Machine Learning. My objective is to combine the power of <em class='text-grey-bright'>Machine Learning and NGS</em> for applications."
+  content: "I am passionate with Bioinformatics, Next-Generation-Sequencing (NGS) and as well as Machine Learning. My objective is to combine the power of <em class='text-grey-bright'>Machine Learning and Genomics</em> for applications."
