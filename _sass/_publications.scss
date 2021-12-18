@@ -19,6 +19,7 @@
   // margin-top:     #{$spacing-unit};
   padding-top:    #{$spacing-unit};
   overflow:       auto;
+  position: relative;
 }
 
 .pub-left {
@@ -28,12 +29,14 @@
   text-align:    center;
   margin-left:   auto;
   margin-right:  auto;
+  padding-bottom: 30px;
 }
 
 .pub-left > .intro-img {
   width:          280px;
   border-style:   solid;
-  border-color:   $red-color-dark;
+  border-width: 2px;
+  // border-color:   $red-color-dark;
 }
 
 .pub-left > .frame {
@@ -86,11 +89,13 @@
 }
 
 .pub-right > .publish {
-  float: right;
+  position: absolute;
+  bottom: 20px;
+  right: 0px;
 }
 
 .pub-right > .publish > .publisher {
-  color:          $blue-color-dark;
+  color:          #9b3022;
   font-size:      16px;
 }
 

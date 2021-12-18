@@ -38,7 +38,7 @@
   imgprop: 'frame'
   selected: true
   publisher: "Python / MySQL / Docker"
-  desc: 'Designed and built a variant annotator with multi-processing and MySQL to solve the inefficiency of traditional annotation tools, reduced the annotation time by 58\%, and shortened the time for a whole genome sample from 2 hours to 50 minutes.'
+  desc: 'Designed and built a variant annotator with multi-processing and MySQL to solve the inefficiency of traditional annotation tools, reduced the annotation time by 58%, and shortened the time for a whole genome sample from 2 hours to 50 minutes.'
 
 - title: 'PIXNET 6th Hackathon Final: Travel Tech (Travel Charger)'
   imgurl: '/images/projects/pixnet.png'
@@ -59,4 +59,4 @@
   imgprop: 'frame'
   selected: true
   publisher: "Python / Docker"
-  desc: 'A Dockerized Multi-threads Whole-Exome-Sequencing Analysis Pipeline (hg19) for general varaints calling (GATK3 Mutect2 & GATK4 Mutect2 with PONs) and annotation (Phial based on Oncotator, paraSNP based on Annovar).'
+  desc: 'For general varaints calling (GATK3 Mutect2 & GATK4 Mutect2 with PONs) and annotation (Phial based on Oncotator, paraSNP based on Annovar).'
