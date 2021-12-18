@@ -16,7 +16,7 @@
   float:          left !important;
   width: -webkit-calc(100% - (#{$spacing-unit} / 2));
   width:         calc(100% - (#{$spacing-unit} / 2));
-  margin-top:     #{$spacing-unit};
+  // margin-top:     #{$spacing-unit};
   padding-top:    #{$spacing-unit};
   overflow:       auto;
 }
