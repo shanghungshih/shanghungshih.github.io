@@ -78,6 +78,9 @@
 .github span {
     background-color: $github-color;
 }
+.cv span {
+    background-color: $cv-color;
+}
 /* Icons */
 .icon-button i {
     background:         none;
@@ -107,9 +110,14 @@
     color: $linkedin-color;
 }
 
+.icon-button .icon-cv {
+    color: $cv-color;
+}
+
 .icon-button:hover .icon-twitter,
 .icon-button:hover .icon-facebook,
 .icon-button:hover .icon-github,
-.icon-button:hover .icon-linkedin {
+.icon-button:hover .icon-linkedin,
+.icon-button:hover .icon-cv {
     color: white;
 }
