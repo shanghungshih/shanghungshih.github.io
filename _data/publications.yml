@@ -1,13 +1,62 @@
-# - title: 'Synthesize Policies for Transfer and Adaptation across Environments and Tasks'
-- title: '<a href="https://github.com/shanghungshih/ngs-main-wes">ngs-main-wes</a>: Dockerized Multi-thread Somatic Paired-WES Analysis Pipeline'
-  date:  'May. 2018'
-  imgurl: '/images/projects/2018/ngs-main-wes_Guide.png'
+- title: 'Moneyfire Web and Mobile App'
+  imgurl: '/images/projects/moneyfire.png'
   imgprop: 'frame'
   selected: true
-  authors:
-    - name: <strong>S.-H. Shih</strong>
-      url:  ''
-  publisher:  'Side Project'
-  status:   ''
-  place:    'in Taichung city, Taiwan'
-  desc: 'A Dockerized Multi-thread Somatic Paired (Normal-Tumor) Whole-Exome-Sequencing (WES) Analysis Pipeline (hg19) for general varaints calling (GATK3 Mutect2 & GATK4 Mutect2 with PONs) and annotation (Phial based on Oncotator, paraSNP based on Annovar).'
+  publisher: "Typescript(React Native, ReactJS) / Firebase / AWS(Amplify)"
+  desc: 'Develop a mobile application to help users track and manage asset growth.'
+
+- title: 'PubmedKB Web App'
+  imgurl: '/images/projects/pubmedkb.png'
+  imgprop: 'frame'
+  selected: true
+  publisher: "Typescript(ReactJS) / NodeJS / Neo4j / Docker / Kubernetes"
+  desc: 'Working on a PubmedKB web app for entities relation visualization of NLP.'
+
+- title: 'QCheck Web App'
+  imgurl: '/images/projects/qcheck.png'
+  imgprop: 'frame'
+  selected: true
+  publisher: "Javascript(Vue.js) / php(laravel) / MySQL / AWS"
+  desc: 'Built proteomics data visualization for QCheck web app.'
+
+- title: 'TAIGenomics Web App'
+  imgurl: '/images/projects/taigenomics.png'
+  imgprop: 'frame'
+  selected: true
+  publisher: "Typescript(ReactJS) / NodeJS / MongoDB / Docker / Kubernetes"
+  desc: 'Developed signup system, variant table, IGV viewer, and pedigree editor for TAIGenomics web app to help genetic analysis and diagnosis.'
+
+- title: 'V-score: Pathogenic Score Prediction'
+  imgurl: '/images/projects/v-score.png'
+  imgprop: 'frame'
+  selected: true
+  publisher: "Python(ML) / Docker"
+  desc: 'Developed rule-based ACMG, ML-based v-score and inheritance pattern interpretation system for variant prioritization.'
+
+- title: 'Variant Annotator'
+  imgurl: '/images/projects/annotator.png'
+  imgprop: 'frame'
+  selected: true
+  publisher: "Python / MySQL / Docker"
+  desc: 'Designed and built a variant annotator with multi-processing and MySQL to solve the inefficiency of traditional annotation tools, reduced the annotation time by 58\%, and shortened the time for a whole genome sample from 2 hours to 50 minutes.'
+
+- title: 'PIXNET 6th Hackathon Final: Travel Tech (Travel Charger)'
+  imgurl: '/images/projects/pixnet.png'
+  imgprop: 'frame'
+  selected: true
+  publisher: "Python / Neo4j / MySQL / Docker"
+  desc: 'Used Pixnet articles for correlation analysis and IG post data for sentiment analysis to provide personalized attraction recommendation and trip planning.'
+
+- title: 'Constructed Transcription Factor Binding Profiles using Deep Learning'
+  imgurl: '/images/projects/cnn.png'
+  imgprop: 'frame'
+  selected: true
+  publisher: "Python(DL) / MySQL / Docker"
+  desc: 'Predicting the sequence specificities of DNA-binding proteins by convolutional neural network.'
+
+- title: '<a href="https://github.com/shanghungshih/ngs-main-wes">ngs-main-wes</a>: Dockerized Multi-threads Somatic Paired WES Analysis Pipeline'
+  imgurl: '/images/projects/ngs-main-wes_Guide.png'
+  imgprop: 'frame'
+  selected: true
+  publisher: "Python / Docker"
+  desc: 'A Dockerized Multi-threads Whole-Exome-Sequencing Analysis Pipeline (hg19) for general varaints calling (GATK3 Mutect2 & GATK4 Mutect2 with PONs) and annotation (Phial based on Oncotator, paraSNP based on Annovar).'
