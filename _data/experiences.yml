@@ -1,34 +1,36 @@
 - date:  "Jan. 2020 -"
   title: "Software Engineer @ Taiwan AI Labs"
-  desc:  "Taigenomics"
+  desc:  "TAIGenomics, PubmedKB, QCheck web app development"
   host: false
   brief: true
 - date:  "Mar. 2019 -"
   title: "Intern @ Taiwan AI Labs"
-  desc:  ""
-  host: false
+  desc:  "Variant Annotator"
+  host:
+    name: "Stefan Hong"
+    role: "Supervisor and Mentor"
   brief: true
-- date:  "Jul. 2018 -"
-  title: "M.S. student @ NTU c4Lab"
+- date:  "Jul. 2018 - Dec. 2020"
+  title: "M.S. @ NTU c4Lab"
   desc:  ""
   host:
     name: "<a href='http://bioinfo.bime.ntu.edu.tw/c4lab/index.php/members/'>Prof. Chien-Yu Chen</a>"
-    role: "Supervisor"
+    role: "Mentor"
   brief: true
-- date:  "2018 -"
-  title: "M.S. student @ NTU and Academia Sinica"
+- date:  "2018 - 2021"
+  title: "M.S. degree @ NTU and Academia Sinica"
   desc:  "Genome and Systems Biology Degree Program"
   host:  false
   brief: true
 - date:  "Jan. 2015 - Aug. 2018"
   title: "Research Assistant @ CSMU bio608"
   desc:  "Dockerized Next-Generation-Sequencing Analysis"
-  host:  
-    name: "<a href='http://biomedical.csmu.edu.tw/files/11-1047-105.php?Lang=zh-tw'>Prof. Yu-Fan Liu</a>"
-    role: "Supervisor and Mentor"
+  host:
+    name: "<a href='https://biomedical.csmu.edu.tw/p/412-1048-213.php?Lang=zh-tw'>Prof. Yu-Fan Liu</a>"
+    role: "Mentor"
   brief: true
 - date:  "2014 - 2018"
-  title: "Undergraduate student @ CSMU"
-  desc:  "B.Sc. in Biomedical Science"
+  title: "B.Sc. degree @ CSMU"
+  desc:  "Biomedical Science"
   host:  false
   brief: true

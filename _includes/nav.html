@@ -11,7 +11,7 @@
 
     {% for page in site.pages %}
       <!-- Button for Posts -->
-      {% if page.title == 'Posts' %}
+      <!-- {% if page.title == 'Posts' %} -->
         {% if page.url contains 'page' %}
         {% else %}
         <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>

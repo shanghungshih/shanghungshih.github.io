@@ -1,5 +1,5 @@
-name:       " Shang-Hung Shih"
-title:      "M.S. Student [at] NTU"
+name:       "Shang-Hung Shih"
+title:      "Software Engineer [at] Taiwan AILabs"
 email:      "shshih8497 [at] gmail.com"
 head_pic:   "/images/self-portrait/me.jpg"
 deep_pic:   "/images/self-portrait/deep-me.jpg"
@@ -7,8 +7,8 @@ resume:     "/assets/resume/ShangHungShih_resume.pdf"
 normal:
   date:     "Sept. 2018"
   title:    ""
-  content:  "<strong>Shang-Hung Shih</strong> is a Genome and Systems Biology Degree Program M.S. student at <strong>National Taiwan University (NTU) and Academia Sinica</strong>, working with <a href='http://bioinfo.bime.ntu.edu.tw/c4lab/index.php/members/'>Prof. Chien-Yu Chen</a>. Prior to this, He earned his Bachelor’s degrees in Biomedical Science from Chung Shan Medical University with honor. His research interests lie in the field of <strong>Bioinformatics</strong>, <strong>Next-Generation-Sequencing (NGS)</strong> and <strong>Machine Learning</strong>."
+  content:  "<strong>Shang-Hung Shih</strong> has worked as a software engineer at the genomics team in Taiwan AILabs for two years. Prior to this, He graduated from <strong>National Taiwan University (NTU) and Academia Sinica</strong> with master degree in Bioinformatics, and worked with <a href='http://bioinfo.bime.ntu.edu.tw/c4lab/index.php/members/'>Prof. Chien-Yu Chen</a>."
 short:
   date:
-  title:  "Bioinformatics Learner"
-  content: "I am passionate with Bioinformatics, Next-Generation-Sequencing (NGS) and as well as Machine Learning. My objective is to combine the power of <em class='text-grey-bright'>Machine Learning and Genomics</em> for applications."
+  title:  "Fast Learner"
+  content: "I am passionate with applying new technology to interesting projects, and like to participate in challenging projects."
