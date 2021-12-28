@@ -1,11 +1,11 @@
-- title: 'Moneyfire Web and Mobile App'
+- title: '<a href="https://www.moneyfire.app">Moneyfire</a> Landing Page and Mobile App'
   imgurl: '/images/projects/moneyfire.png'
   imgprop: 'frame'
   selected: true
   publisher: "Typescript(React Native, Next.js) / Firebase / AWS(Amplify)"
   desc: 'Develop a mobile application to help users track and manage asset growth.'
 
-- title: 'PubmedKB Web App'
+- title: '<a href="https://www.pubmedkb.cc">PubmedKB</a> Web App'
   imgurl: '/images/projects/pubmedkb.png'
   imgprop: 'frame'
   selected: true
@@ -19,7 +19,7 @@
   publisher: "Javascript(Vue.js) / php(laravel) / MySQL / AWS"
   desc: 'Built proteomics data visualization for QCheck web app.'
 
-- title: 'TAIGenomics Web App'
+- title: '<a href="https://www.taigenomics.com">TAIGenomics</a> Web App'
   imgurl: '/images/projects/taigenomics.png'
   imgprop: 'frame'
   selected: true
@@ -40,7 +40,7 @@
   publisher: "Python / MySQL / Docker"
   desc: 'Designed and built a variant annotator with multi-processing and MySQL to solve the inefficiency of traditional annotation tools, reduced the annotation time by 58%, and shortened the time for a whole genome sample from 2 hours to 50 minutes.'
 
-- title: '1st place in PIXNET 6th Hackathon Final: Travel Tech (Travel Charger)'
+- title: '1st place in <a href="https://mol.mcu.edu.tw/%E7%AC%AC%E5%85%AD%E5%B1%86%E9%BB%91%E5%AE%A2%E6%9D%BE-%E6%9C%80%E5%BC%B7%E7%9A%84hacker%E9%9A%8A%E4%BC%8D%E3%80%8Cc4d%EF%BD%A3">PIXNET 6th Hackathon Final</a>: Travel Tech (Travel Charger)'
   imgurl: '/images/projects/pixnet.png'
   imgprop: 'frame'
   selected: true
