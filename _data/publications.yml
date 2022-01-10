@@ -1,11 +1,11 @@
-- title: '<a href="https://www.moneyfire.app">Moneyfire</a> Landing Page and Mobile App'
+- title: <a href="https://moneyfire.app" onclick="trackOutboundLink('https://moneyfire.app'); return false;">Moneyfire</a> Landing Page and Mobile App
   imgurl: '/images/projects/moneyfire.png'
   imgprop: 'frame'
   selected: true
   publisher: "Typescript(React Native, Next.js) / Firebase / AWS(Amplify)"
   desc: 'Develop a mobile application to help users track and manage asset growth.'
 
-- title: '<a href="https://www.pubmedkb.cc">PubmedKB</a> Web App'
+- title: <a href="https://www.pubmedkb.cc" onclick="trackOutboundLink('https://www.pubmedkb.cc'); return false;">PubmedKB</a> Web App
   imgurl: '/images/projects/pubmedkb.png'
   imgprop: 'frame'
   selected: true
@@ -19,7 +19,7 @@
   publisher: "Javascript(Vue.js) / php(laravel) / MySQL / AWS"
   desc: 'Built proteomics data visualization for QCheck web app.'
 
-- title: '<a href="https://www.taigenomics.com">TAIGenomics</a> Web App'
+- title: <a href="https://www.taigenomics.com" onclick="trackOutboundLink('https://www.taigenomics.com'); return false;">TAIGenomics</a> Web App
   imgurl: '/images/projects/taigenomics.png'
   imgprop: 'frame'
   selected: true
